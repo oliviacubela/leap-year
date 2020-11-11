@@ -1,0 +1,12 @@
+/Users/oliviacubela/leap-year/obj/Debug/netcoreapp2.1.22/LeapYear.csprojAssemblyReference.cache
+/Users/oliviacubela/leap-year/obj/Debug/netcoreapp2.1.22/LeapYear.AssemblyInfoInputs.cache
+/Users/oliviacubela/leap-year/obj/Debug/netcoreapp2.1.22/LeapYear.AssemblyInfo.cs
+/Users/oliviacubela/leap-year/obj/Debug/netcoreapp2.1.22/LeapYear.csproj.CoreCompileInputs.cache
+/Users/oliviacubela/leap-year/bin/Debug/netcoreapp2.1.22/LeapYear.deps.json
+/Users/oliviacubela/leap-year/bin/Debug/netcoreapp2.1.22/LeapYear.runtimeconfig.json
+/Users/oliviacubela/leap-year/bin/Debug/netcoreapp2.1.22/LeapYear.runtimeconfig.dev.json
+/Users/oliviacubela/leap-year/bin/Debug/netcoreapp2.1.22/LeapYear.dll
+/Users/oliviacubela/leap-year/bin/Debug/netcoreapp2.1.22/LeapYear.pdb
+/Users/oliviacubela/leap-year/obj/Debug/netcoreapp2.1.22/LeapYear.dll
+/Users/oliviacubela/leap-year/obj/Debug/netcoreapp2.1.22/LeapYear.pdb
+/Users/oliviacubela/leap-year/obj/Debug/netcoreapp2.1.22/LeapYear.genruntimeconfig.cache
